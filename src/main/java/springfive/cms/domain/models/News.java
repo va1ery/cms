@@ -4,6 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 import lombok.Data;
 
+/**
+ * @author claudioed on 28/10/17. Project cms
+ */
 @Data
 public class News {
 
